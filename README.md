@@ -5,4 +5,4 @@ Web Start 2.0
 [Калькулятор](https://viperpredator1992.github.io/calc/)<br>
 [3dGlo](https://viperpredator1992.github.io/3dGlo/)<br>
 [Амазонка](https://viperpredator1992.github.io/amazon-k/)<br>
-[TruHarbor](https://github.com/viperpredator1992.github.io/TruHarbor/)<br>
+[TruHarbor](https://github.com/viperpredator1992.github.io/truharbor/)<br>
